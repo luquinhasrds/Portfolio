@@ -1,4 +1,7 @@
 section{
-    padding-top: 210px;
     width: 100%;
+}
+
+.tamanho-section{
+    height: 567px;
 }
