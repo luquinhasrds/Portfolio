@@ -1,0 +1,5 @@
+.borda-bottom {
+    box-shadow: 0 -4px 5px rgba(116, 116, 116, 0.192);
+    color: rgb(91, 91, 91);
+    background-color: black;
+}
